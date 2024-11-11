@@ -1,0 +1,5 @@
+#dont the images:
+./Pokemons/*
+./__pycache__/*
+*.jpg
+
